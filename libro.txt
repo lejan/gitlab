@@ -9,3 +9,5 @@ Cabras: con 2 cabras hembras (el servicio se hace alquilando un macho) tenés le
 Conejos: Con 1 macho y 4 hembras tenés suficiente carne para una familia tipo (4 integrantes). Cada 2 semanas podrás carnear un conejo y obtener 1,4 kilos de carne.
 
 Huerta: con un espacio de 200 metros cuadrados se puede obtener suficiente comida para una familia tipo (4 integrantes). Te conviene empezar plantando lechuga, pimientos, tomates, calabaza.
+
+Caballo: es solo recreativo.
